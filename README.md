@@ -1,6 +1,9 @@
 <h1 align="center">Hello, I'm Bryan Kenneth S. Tabares</h1>
-<h3 align="center">I'm an intermediate web developer and graphic designer looking for an opportunity to expand my knowledge and skills on fields that I'm passionate with.</h3>
+<h3 align="center">I'm backend developer and graphic designer looking for an opportunity to expand my knowledge and skills on fields that I'm passionate with.</h3>
 
+<a href="https://holopin.io/@abaddon431">
+  <img src="https://holopin.me/abaddon431?" alt="abaddon431 Holopin board" />
+</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
